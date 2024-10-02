@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://buctoric.github.io/sitemap.html.gz
+Sitemap: https://buctoric.github.io/app/sitemap.html.gz
+Sitemap: https://buctoric.github.io/assets/sitemap.html.gz
+Sitemap: https://buctoric.github.io/css/sitemap.html.gz
+Sitemap: https://buctoric.github.io/data/sitemap.html.gz
+Sitemap: https://buctoric.github.io/includes/sitemap.html.gz
+Sitemap: https://buctoric.github.io/item/sitemap.html.gz
+Sitemap: https://buctoric.github.io/src/sitemap.html.gz
